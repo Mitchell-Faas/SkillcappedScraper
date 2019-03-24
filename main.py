@@ -48,7 +48,7 @@ for i, row in videos.iterrows():
 print(full_list.to_string())
 
 #########################################
-# Start actually downloading shit
+# Start actually downloading stuff
 #########################################
 # Get cookies from chrome, so you're logged in
 cj = browser_cookie3.chrome()
